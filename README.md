@@ -1,6 +1,6 @@
 # Welcome to Nautica
 
-Sebuah repository serverless tunnel studi kasus Indonesia
+Sebuah repository serverless tunnel studi kasus Indonesia dibuat oleh FoolVPN-ID (dickymuliafiqri) thaks to beliau hehe
 
 # Fitur
 
